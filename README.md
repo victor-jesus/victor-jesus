@@ -24,7 +24,8 @@
   [🔗 Repositório do projeto](https://github.com/victor-jesus/sinuca-p5js)
 
 - 🌿 Site de Divulgação - Massoterapeuta Sione Maciel
-  Projeto desenvolvido para a disciplina de Programação Web no curso de Ciência da Computação (Senac). O objetivo foi criar uma solução digital para gerar valor a uma empresa local — neste caso, um site institucional para a massoterapeuta     **Sione Maciel**.
+  Projeto desenvolvido para a disciplina de Programação Web no curso de Ciência da Computação (Senac). O objetivo foi criar uma solução digital para gerar valor a uma empresa local — neste caso, um site institucional para a massoterapeuta Sione Maciel.
+
   [🔗 Site publicado (GitHub Pages)](https://bcc-projects.github.io/site-projeto-pw/)  
   [🔗 Repositório do projeto](https://github.com/bcc-projects/site-projeto-pw.git)
 
@@ -34,7 +35,7 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-jesus&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&layout=compact&theme=radical&hide=css,scss)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&layout=compact&theme=radical)
 
 ---
 
