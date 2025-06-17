@@ -1,13 +1,52 @@
-# Hi, I'm Victor Gustavo! 
+# 👋 Hi, I'm Victor Gustavo!
 
-#### Developer, living in Brazil with a dream to work with technology. 
+🎯 Desenvolvedor brasileiro com grande interesse em **tecnologia**, **resolução de problemas** e **projetos criativos**. Atualmente focado em crescer como desenvolvedor full stack e participar de projetos com impacto real.
 
-## Languages, frameworks and everything else 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+---
 
-## Socials 
+## 🚀 Tecnologias e Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gustavo-5623a5240/) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=white)
+![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-jesus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&hide=css,scss&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
+
+## 💼 Projetos em Destaque
+
+- 🎱 **Simulador de Sinuca com p5.js**  
+  Projeto que simula física real com colisões, gravidade e atrito. Implementado com `JavaScript` e a biblioteca `p5.js`.  
+  [🔗 Veja no GitHub](https://github.com/victor-jesus/jogo-sinuca-p5js) _(substitua pelo link real)_
+
+- 🌿 Site de Divulgação - Massoterapeuta Sione Maciel
+  Projeto desenvolvido para a disciplina de Programação Web no curso de Ciência da Computação (Senac). O objetivo foi criar uma solução digital para gerar valor a uma empresa local — neste caso, um site institucional para a massoterapeuta     **Sione Maciel**.
+
+🔗 [Site publicado (GitHub Pages)](https://bcc-projects.github.io/site-projeto-pw/)  
+🔗 [Repositório do projeto](https://github.com/bcc-projects/site-projeto-pw.git)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-jesus&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=css,scss)
+
+---
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gustavo-5623a5240/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-jesus)
+
+---
+
+## ✍️ Autor
+
+Desenvolvido com 💻 e ☕ por **Victor Gustavo**.  
+Sinta-se à vontade para contribuir, dar feedback ou apenas dizer oi!
