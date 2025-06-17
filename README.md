@@ -21,13 +21,12 @@
 
 - 🎱 **Simulador de Sinuca com p5.js**  
   Projeto que simula física real com colisões, gravidade e atrito. Implementado com `JavaScript` e a biblioteca `p5.js`.  
-  [🔗 Veja no GitHub](https://github.com/victor-jesus/jogo-sinuca-p5js) _(substitua pelo link real)_
+  [🔗 Veja no GitHub](https://github.com/victor-jesus/sinuca-p5js)
 
 - 🌿 Site de Divulgação - Massoterapeuta Sione Maciel
   Projeto desenvolvido para a disciplina de Programação Web no curso de Ciência da Computação (Senac). O objetivo foi criar uma solução digital para gerar valor a uma empresa local — neste caso, um site institucional para a massoterapeuta     **Sione Maciel**.
-
-🔗 [Site publicado (GitHub Pages)](https://bcc-projects.github.io/site-projeto-pw/)  
-🔗 [Repositório do projeto](https://github.com/bcc-projects/site-projeto-pw.git)
+  [🔗 Site publicado (GitHub Pages)](https://bcc-projects.github.io/site-projeto-pw/)  
+  [🔗 Repositório do projeto](https://github.com/bcc-projects/site-projeto-pw.git)
 
 ---
 
