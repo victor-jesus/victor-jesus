@@ -35,7 +35,7 @@
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-jesus&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&layout=compact&theme=radical&hide=javascript,makefile)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-jesus&layout=compact&theme=radical&hide=javascript,Makefile,Cmake)
 
 ---
 
